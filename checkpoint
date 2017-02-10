@@ -1,0 +1,2 @@
+model_checkpoint_path: "P2Net.ckpt"
+all_model_checkpoint_paths: "P2Net.ckpt"
